@@ -17,11 +17,11 @@
   ],
   "license": "MIT",
   "devDependencies": {
-    "bs-platform": "^5.0.0",
-    "fastpack": "^0.8.4",
-    "@glennsl/bs-jest": "^0.4.8"
+    "bs-platform": "5.2.1",
+    "fastpack": "0.8.4",
+    "@glennsl/bs-jest": "0.4.10"
   },
   "dependencies": {
-    "reason-react": "^0.7.0"
+    "reason-react": "0.7.1"
   }
 }
