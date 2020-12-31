@@ -22,6 +22,6 @@
     "@glennsl/bs-jest": "0.6.0"
   },
   "dependencies": {
-    "reason-react": "0.7.1"
+    "reason-react": "0.9.1"
   }
 }
