@@ -17,7 +17,7 @@
   ],
   "license": "MIT",
   "devDependencies": {
-    "bs-platform": "5.2.1",
+    "bs-platform": "8.4.2",
     "fastpack": "0.8.4",
     "@glennsl/bs-jest": "0.6.0"
   },
